@@ -12,7 +12,7 @@ I am persuing a _Bachelor's degree in I.T_. I am currently working full time whi
  In my free time I have many things that I enjoy doing-
   + **Acting**
   
-  ![Comedy&Tragedy](https://en.wikipedia.org/wiki/File:Comedy_and_tragedy_masks.svg)
+  ![Comedy&Tragedy](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bernhardt_Hamlet2.jpg/800px-Bernhardt_Hamlet2.jpg)
   
   + **Woodworking**
   + **Computers**
