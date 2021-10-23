@@ -1,9 +1,10 @@
 # AboutMe
 
-## General Info
+## General Info   
 
-![Me](https://user-images.githubusercontent.com/89314862/138538487-47e0cc3c-31ad-44d8-a452-9de30e55c2d1.jpg)
+<img src="https://user-images.githubusercontent.com/89314862/138538487-47e0cc3c-31ad-44d8-a452-9de30e55c2d1.jpg" width="100" height="100">
 
 Hello My name is Curtis Hogue. I am 40 years old. I currently
 work as a Leter Carrier for **USPS**. I recently transfered to MU from _MCC - Maple Woods_.
 
+ 
