@@ -6,5 +6,5 @@
 
 Hello, My name is **Curtis Hogue**. I am 40 years old. I currently
 work as a Leter Carrier for **USPS**. I recently transfered to **_MU_** from **_MCC - Maple Woods_**.
-I am persuing a Bachelor's degree in I.T. I am currently working full time while also being a full time student.
+I am persuing a _Bachelor's degree in I.T_. I am currently working full time while also being a full time student.
  
