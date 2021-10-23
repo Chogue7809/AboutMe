@@ -15,5 +15,10 @@ I am persuing a _Bachelor's degree in I.T_. I am currently working full time whi
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bernhardt_Hamlet2.jpg/800px-Bernhardt_Hamlet2.jpg" width="200" height="200">
   
   + **Woodworking**
+
+<img src="https://en.wikipedia.org/wiki/File:Woodworking_Tools_at_the_Women%27s_Woodshop_in_Minneapolis,_MN.jpg" width="200" height="200">
+
   + **Computers**
+
+<img src="https://en.wikipedia.org/wiki/File:ThinkCentre_S50.jpg" width="200" height="200">
  
