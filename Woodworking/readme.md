@@ -11,7 +11,7 @@ I also get excited when friends are like I want this. I jump at the opportunity 
 ### Harpsicord and Stand 
 
   + **Front**
-  + 
+  
 <img src="https://user-images.githubusercontent.com/89314862/138541311-5b52dcd3-5161-454a-99d4-ed68a20af820.jpg" width="200" height="200">
 
   + **Back**
