@@ -2,8 +2,8 @@
 
 + ### **Here is a madlib program I created in C++**
 
-'''cpp
 
+```c++
 #include <iostream>
 	
 #include <string>
@@ -64,6 +64,6 @@ return 0;
 		
 
 }
-'''
+```
 
 |[**Home**](https://chogue7809.github.io/AboutMe/)|
