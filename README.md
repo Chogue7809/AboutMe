@@ -16,7 +16,7 @@ I am persuing a _Bachelor's degree in I.T_. I am currently working full time whi
   
   + **Woodworking**
 
-<img src="https://en.wikipedia.org/wiki/File:Woodworking_Tools_at_the_Women%27s_Woodshop_in_Minneapolis,_MN.jpg" width="200" height="200">
+<img src="Images/Woodworking.jpg" width="200" height="200">
 
   + **Computers**
 
