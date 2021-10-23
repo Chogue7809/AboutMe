@@ -22,8 +22,8 @@ I am persuing a _Bachelor's degree in I.T_. I am currently working full time whi
 
 <img src="Images/Backlit_keyboard.jpg" width="200" height="200">
 
-## Projects
+## Project
 
 Here are some of my coding projects Ive completed so far while in school.
- [**Coding Projects**](CodingProjects)
+ [**Coding Project**](CodingProjects)
  
