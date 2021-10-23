@@ -12,6 +12,7 @@ Although with work and school I havent had much time for anything other than hom
  >Also recently due to the pandemic I recently started a Twitch chanel as a way to entertain people. I have had much time since the start of the semester. Hopefully things will start getting a little less hectic and I can start back up again.
   
   <img src="https://user-images.githubusercontent.com/89314862/138538493-f9df6737-6e34-411b-957f-8094b1e25854.jpg" width="200" height="200">
+  
   [**Loshigu_games**](https://www.twitch.tv/loshigu_games)
 
 
