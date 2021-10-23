@@ -20,5 +20,5 @@ I am persuing a _Bachelor's degree in I.T_. I am currently working full time whi
 
   + **Computers**
 
-<img src="https://en.wikipedia.org/wiki/Computer_keyboard#/media/File:Backlit_keyboard.jpg" width="200" height="200">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcomputer%2F&psig=AOvVaw3mGSY3vqKIzTg-tixf1Tk3&ust=1635044180786000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj2x67E3_MCFQAAAAAdAAAAABAD" width="200" height="200">
  
