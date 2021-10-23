@@ -2,7 +2,7 @@
 
 + ### **Here is a madlib program I created in C++**
 
-'''c
+'''cpp
 
 #include <iostream>
 	
