@@ -15,11 +15,11 @@ I also get excited when friends are like I want this. I jump at the opportunity 
 
   + **Back**
   
-<img src="https://user-images.githubusercontent.com/89314862/138541308-0c316b28-6b36-4711-b25d-4ad64f9c72ce.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/89314862/138541309-bdbf8474-b82f-4c22-a801-3e19194c8793.jpg" width="200" height="200">
 
   + **Stand**
 
-<img src="https://github.com/Chogue7809/AboutMe/commit/43058e0f4f96dc9ec17369d75a1ebdb833ff7262#commitcomment-58526842" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/89314862/138541308-0c316b28-6b36-4711-b25d-4ad64f9c72ce.jpg" width="200" height="200">
 
 ### Custom Studio Desk ( work in progress )
 
