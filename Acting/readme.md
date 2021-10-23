@@ -37,4 +37,4 @@ from being at the bottom of the socail order to almost the top.
 
 <img src="https://user-images.githubusercontent.com/89314862/138538495-50b50415-2132-495a-b7fc-2c528e5faa44.jpg" width="200" height="200">
 
-|[Home](https://chogue7809.github.io/AboutMe/)|[Woodworking](Woodworking)|[Computers](Computers)|[Projects](CodingProjects)|
+|[**Home**](https://chogue7809.github.io/AboutMe/)|
