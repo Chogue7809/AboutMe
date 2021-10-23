@@ -36,3 +36,5 @@ from being at the bottom of the socail order to almost the top.
 >I have been in numerous other stage productions from **_Footloose_**, **Linus** in **_Youre a Good Man Charlie Brown_**, to my later role as **John** in **_A Rented Christmas_**.
 
 <img src="https://user-images.githubusercontent.com/89314862/138538495-50b50415-2132-495a-b7fc-2c528e5faa44.jpg" width="200" height="200">
+
+[Home](readme.md)    [Woodworking](Woodworking)   [Computers](Computers)  [Projects](CodingProjects)
