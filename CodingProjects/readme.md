@@ -2,7 +2,7 @@
 
 + ### **Here is a madlib program I created in C++**
 
-'code'
+'''
 
 // Midterm 2021.cpp : This program allows the user to input strings according to the prompts and output them into a story. 
 //
@@ -67,6 +67,6 @@ return 0;
 
 }
 
-
+'''
 
 |[**Home**](https://chogue7809.github.io/AboutMe/)|
