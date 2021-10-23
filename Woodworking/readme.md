@@ -25,4 +25,4 @@ I also get excited when friends are like I want this. I jump at the opportunity 
 
 <img src="https://user-images.githubusercontent.com/89314862/138541319-7999a895-a50c-4b9a-b7c4-2dfe3b8054c9.jpg" height="200">
 
-|[Home](https://chogue7809.github.io/AboutMe/)|[**Acting**](Acting)|[Computers](Computers)|[Projects](CodingProjects)|
+|[**Home**](https://chogue7809.github.io/AboutMe/)|
