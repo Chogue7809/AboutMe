@@ -29,10 +29,10 @@ from being at the bottom of the socail order to almost the top.
 
 <img src="https://user-images.githubusercontent.com/89314862/138538499-ef458ac9-f487-4cfc-895a-1353d1bda0bd.jpg" width="200" height="200">
 
->Just like the renfest, I began my stage performing in 2007. I played **Ralph**, _the stage mangaer_, in **Kiss Me Kate**.
+>Just like the renfest, I began my stage performing in 2007. I played **Ralph**, _the stage mangaer_, in **_Kiss Me Kate_**.
 
 <img src="https://user-images.githubusercontent.com/89314862/138538488-dbce943e-3c91-4ff5-93b9-d599ea93cc00.jpg" width="200" height="200">
 
->I have been in numerous other stage productions from _Footloose_, Linus in _Youre a Good Man Charlie Brown_, to my later role as John in _A Rented Christmas_.
+>I have been in numerous other stage productions from **_Footloose_**, **Linus** in ** _Youre a Good Man Charlie Brown_**, to my later role as **John** in **_A Rented Christmas_**.
 
 <img src="https://user-images.githubusercontent.com/89314862/138538495-50b50415-2132-495a-b7fc-2c528e5faa44.jpg" width="200" height="200">
