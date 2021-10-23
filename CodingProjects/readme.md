@@ -1,4 +1,4 @@
-# Coding Projects
+# Coding Project
 
 + ### **Here is a madlib program I created in C++**
 
